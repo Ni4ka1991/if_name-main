@@ -3,3 +3,5 @@ from app import *
 
 
 print( f"mylib: {__name__} " )
+
+sum()
